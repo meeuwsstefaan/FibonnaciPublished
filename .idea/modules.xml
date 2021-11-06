@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Fibonnaci.iml" filepath="$PROJECT_DIR$/.idea/Fibonnaci.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FibonnaciModule/FibonnaciModule.iml" filepath="$PROJECT_DIR$/FibonnaciModule/FibonnaciModule.iml" />
     </modules>
   </component>
 </project>
