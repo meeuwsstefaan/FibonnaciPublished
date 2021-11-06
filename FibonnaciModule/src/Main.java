@@ -9,7 +9,7 @@ public class Main {
 
     public static int sum(int left, int right) {
         int theSum = left + right;
-        if (theSum > 1000) {
+        if (theSum > 1000) { // End the Fibonnaci series at 1000.
             return 0;
         } else {
             System.out.print(" " + theSum);
